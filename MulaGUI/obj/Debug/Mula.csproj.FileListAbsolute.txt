@@ -1,0 +1,9 @@
+C:\Users\usuario2\source\repos\Mula\bin\Debug\Mula.exe.config
+C:\Users\usuario2\source\repos\Mula\bin\Debug\Mula.exe
+C:\Users\usuario2\source\repos\Mula\bin\Debug\Mula.pdb
+C:\Users\usuario2\source\repos\Mula\obj\Debug\Mula.csprojAssemblyReference.cache
+C:\Users\usuario2\source\repos\Mula\obj\Debug\Mula.Properties.Resources.resources
+C:\Users\usuario2\source\repos\Mula\obj\Debug\Mula.csproj.GenerateResource.cache
+C:\Users\usuario2\source\repos\Mula\obj\Debug\Mula.exe
+C:\Users\usuario2\source\repos\Mula\obj\Debug\Mula.pdb
+C:\Users\usuario2\source\repos\Mula\obj\Debug\Mula.FrmPrincipal.resources
